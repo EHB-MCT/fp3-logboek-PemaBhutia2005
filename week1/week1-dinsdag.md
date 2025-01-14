@@ -15,6 +15,7 @@ _Instructie :_
 > **Activiteiten:**
 
 - sitemap gemaakt en customer journey gemaakt
+- begonnen aan persona
 
 ---
 
@@ -26,7 +27,7 @@ _Instructie (1 item per dag volstaat):_
 
 > **Nieuwe skills:**
 
-- nog niks
+- outside the box denken
 
 ---
 
