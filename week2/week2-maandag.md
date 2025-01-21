@@ -1,8 +1,8 @@
 # Logboek
 
-**Datum:** `[17/01/2025]`  
-**Studentnaam:** `[Pema Bhutia]`  
-**Groepsnaam:** `[JPDSPY CREW]`
+**Datum:** 20/01/2025  
+**Studentnaam:** Pema Bhutia
+**Groepsnaam:** JPDSPY Crew
 
 ---
 
@@ -15,7 +15,7 @@ _Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 
 > **Activiteiten:**
 >
-> - samen met Jordi heb ik in een arduino bestand geprobeerd om een nieuwe sensor van Kobe te doen werken.
+> - Samen met Jordi hebben we berekend hoe we het portaal maken. Ik heb in 3d het portaal gemaakt in Maya met de juiste afmetingen.
 
 ---
 
@@ -28,7 +28,7 @@ _Instructie (1 item per dag volstaat):_
 
 > **Nieuwe skills:**
 >
-> - Vandaag heb ik geleerd hoe een KY-032 Obstacle Detector Module werkt.
+> - Vandaag opnieuw geleerd hoe Maya werkt.
 
 ---
 
@@ -36,8 +36,12 @@ _Instructie (1 item per dag volstaat):_
 
 _Instructie:_
 
-- Ik ben in de war, we zouden al moeten beginnen met het effectief maken van het portaal maar hebben de feedback gekregen dat het te vaag is.
+- Ik ben blij met waar we staan nu maar ben nog steeds aan het stressen voor hoe we het verder gedaan gaan krijgen.
 
 > **Algmeeen gevoel:**
 >
-> - 😣
+> - 😥
+
+---
+
+_Kopieer dit sjabloon voor je volgende dagen en pas de antwoorden telkens aan!_

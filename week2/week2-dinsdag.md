@@ -1,8 +1,8 @@
 # Logboek
 
-**Datum:** `[17/01/2025]`  
-**Studentnaam:** `[Pema Bhutia]`  
-**Groepsnaam:** `[JPDSPY CREW]`
+**Datum:** `[dd/mm/yyyy]`  
+**Studentnaam:** `[Naam]`  
+**Groepsnaam:** `[Groep]`
 
 ---
 
@@ -15,7 +15,8 @@ _Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 
 > **Activiteiten:**
 >
-> - samen met Jordi heb ik in een arduino bestand geprobeerd om een nieuwe sensor van Kobe te doen werken.
+> - In `index.html` heb ik een overzicht van projecten toegevoegd en drie aanpassingen doorgevoerd in de CSS (voor `ul`, `li` en `.projectname`).
+> - Samen met [naam teamgenoot] de filterfunctionaliteit in `projects.js` opgezet om alleen lopende projecten te tonen.
 
 ---
 
@@ -28,7 +29,8 @@ _Instructie (1 item per dag volstaat):_
 
 > **Nieuwe skills:**
 >
-> - Vandaag heb ik geleerd hoe een KY-032 Obstacle Detector Module werkt.
+> - Vandaag voor het eerst een gebruikerstest opgezet in Figma en feedback verwerkt in de wireframes.
+> - Of: Ik heb geleerd hoe ik mijn teamgenoten kan motiveren als ze vastlopen.
 
 ---
 
@@ -36,8 +38,14 @@ _Instructie (1 item per dag volstaat):_
 
 _Instructie:_
 
-- Ik ben in de war, we zouden al moeten beginnen met het effectief maken van het portaal maar hebben de feedback gekregen dat het te vaag is.
+- Noteer in 1 zin hoe je je voelt.
+- Voeg een kleur of symbool toe dat je stemming weergeeft (bijv. een donderwolk bij boosheid of een happy smiley als je tevreden bent).
 
 > **Algmeeen gevoel:**
 >
-> - 😣
+> - **"Blij"** :smiley:
+> - **"Gefrustreerd"** :zap:
+
+---
+
+_Kopieer dit sjabloon voor je volgende dagen en pas de antwoorden telkens aan!_
