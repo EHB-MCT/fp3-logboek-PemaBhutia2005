@@ -1,50 +1,37 @@
 # Logboek
 
-**Datum:** `[dd/mm/yyyy]`  
-**Studentnaam:** `[Naam]`  
-**Groepsnaam:** `[Groep]`
+**Datum:** 20/01/2025  
+**Studentnaam:** Pema Bhutia
+**Groepsnaam:** JPDSPY Crew
 
 ---
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
-_Instructie (schrijf in bullets waar je aan gewerkt hebt):_
-
-- Benoem de exacte onderdelen of bestanden waar je wijzigingen in hebt doorgevoerd (bijv. “In `index.html` heb ik een overzicht van projecten toegevoegd en drie aanpassingen doorgevoerd in de CSS (voor `ul`, `li` en `.projectname`).”).
-- Als je iets samen met een teamgenoot hebt gemaakt, vermeld dit er duidelijk bij.
-
 > **Activiteiten:**
 >
-> - In `index.html` heb ik een overzicht van projecten toegevoegd en drie aanpassingen doorgevoerd in de CSS (voor `ul`, `li` en `.projectname`).
-> - Samen met [naam teamgenoot] de filterfunctionaliteit in `projects.js` opgezet om alleen lopende projecten te tonen.
+> - Samen met Jordi verder gewerkt aan onze video in Touchdesigner. We hebben deze tutorial gevolgd: https://www.youtube.com/watch?app=desktop&v=NuIShUTg3nI&t=0s.
+> - Jordi en ik hebben alle delen van de pilaar gelasercut.
+> - Gespeeld in de horror-video samen met Philippe, gefilmd door Yousra & Dave.
+> - Een aantal delen van de pilaar aan elkaar gelijmd samen met Jordi.
 
 ---
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
-_Instructie (1 item per dag volstaat):_
-
-- Omschrijf kort je persoonlijke vooruitgang.
-- Dit kunnen technische skills zijn (bijv. een Figma design system setup gemaakt) of soft skills (bijv. team leren aansturen, medestudent gemotiveerd, presentatie gegeven, omgaan met feedback, ...).
-
 > **Nieuwe skills:**
 >
-> - Vandaag voor het eerst een gebruikerstest opgezet in Figma en feedback verwerkt in de wireframes.
-> - Of: Ik heb geleerd hoe ik mijn teamgenoten kan motiveren als ze vastlopen.
+> - Verder geleerd over Touchdesigner.
 
 ---
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-_Instructie:_
-
-- Noteer in 1 zin hoe je je voelt.
-- Voeg een kleur of symbool toe dat je stemming weergeeft (bijv. een donderwolk bij boosheid of een happy smiley als je tevreden bent).
+- Ik voel me vermoeid, ik ben zulke lange dagen niet gewend en Jordi en ik moeten ook nog eens 4 uur onderweg zijn. Wanneer we vertrekken is het donker en eens we thuiskomen is het terug donker. Over het project, ben ik wel blij met hoe ver we gekomen zijn vandaag. Ik voel veel vooruitgang.
 
 > **Algmeeen gevoel:**
 >
-> - **"Blij"** :smiley:
-> - **"Gefrustreerd"** :zap:
+> - 😴 / 🙂‍↕️
 
 ---
 
